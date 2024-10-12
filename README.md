@@ -26,5 +26,7 @@ Disponibilizado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Aní
 - Pandas
 - Matplotlib
 
+{DataViz}(https://public.tableau.com/app/profile/d.llia.sintique.reis/viz/Projeto_Final_Analise_de_Dados_Enem/Painel2)
+
 
 ![Reprograma-on34](https://github.com/user-attachments/assets/3942ca3d-6735-430c-aa05-5b540bea2863)
